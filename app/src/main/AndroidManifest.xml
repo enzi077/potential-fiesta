@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.passwordgenerator">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/my_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/my_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".FilterSearchActivity"></activity>
+        <activity android:name=".ForgotPasswordActivity" />
+        <activity android:name=".FinalUpdateActivity" />
+        <activity android:name=".UpdateActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".PasswordList" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SignupActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

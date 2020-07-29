@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">P-Gen</string>
+    <string name="errorMsg">Number of characters should be more than 8 and less than 20</string>
+    <string name="hint_userinput">Enter number of characters of password</string>
+    <string name="hint_errormsg">Number of digits should more than 8 and less than 20</string>
+    <string name="hint_output">Your generated password</string>
+    <string name="more_options"></string>
+    <string name="refresh"></string>
+    <string name="exiting_user_text">Existing user? Log in here.</string>
+    <string name="new_user_text">Not a registered user? Sign Up here.</string>
+    <string name="app_bar_genpwd">Generate password</string>
+    <string name="app_bar_list">Your passwords</string>
+    <string name="app_bar_logout">Logout</string>
+    <string name="forgot_pwd_email">Your E-mail</string>
+    <string name="del_all_pwd">Delete all passwords</string>
+    <string name="search">Search</string>
+    <string name="e_mail_for_signup">E-Mail</string>
+    <string name="password_for_sign_up">Password</string>
+    <string name="sign_up_txt">Sign Up</string>
+    <string name="log_in_btn_name">Log In</string>
+    <string name="forgot_password_btn_name">Forgot password ?</string>
+    <string name="enter_number_of_characters">Enter number of characters</string>
+    <string name="characters_more_than_8_less_than_20">Characters more than 8 less than 20</string>
+    <string name="generate_password">Generate Password</string>
+    <string name="your_generated_password">Your Generated Password</string>
+    <string name="save">Save</string>
+    <string name="password_for">Password for...?</string>
+    <string name="password_selected">Password selected</string>
+    <string name="reason">Reason</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="reset">Reset</string>
+    <string name="your_password">Your Password</string>
+    <string name="update_password_btn">Update password</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom"
+        android:title="@string/search"
+         />
+
+    <item
+        android:id="@+id/genPwd"
+        android:icon="@color/txtColor"
+        android:title="@string/app_bar_genpwd"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/yourlist"
+        android:icon="@color/txtColor"
+        android:title="@string/app_bar_list"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delall"
+        android:icon="@color/txtColor"
+        android:title="@string/del_all_pwd"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/signout"
+        android:icon="@color/txtColor"
+        android:title="@string/app_bar_logout"
+        app:showAsAction="never" />
+
+
+</menu>
